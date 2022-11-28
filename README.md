@@ -1,6 +1,6 @@
 # Ellixi
 
-dreamplus hackerthon에서 account abstraction을 이용한 게임 sdk demo입니다.
+dreamplus hackerthon에서 만든 account abstraction을 이용한 게임 sdk demo입니다.
 
 ## account abstraction
 
